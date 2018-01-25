@@ -1,2 +1,4 @@
 # hello-world
-Another repository 
+Another repository
+
+Snailmachine, a machine that is a snail. I like books.
